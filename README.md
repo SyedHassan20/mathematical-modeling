@@ -43,7 +43,7 @@ This project extends traditional foot traffic modeling by incorporating matrix a
 - **Eigenvalue Analysis**: Use of eigenvalues and eigenvectors to determine the stability and dominant patterns in foot traffic distribution.
 - **Matrix Decomposition**: Utilization of matrix factorization methods to decompose and interpret the traffic data.
 
-## 7. Vector Spaces and Grayscale Image Compression
+## 6. Vector Spaces and Grayscale Image Compression
 
 This project explores the application of linear algebra and vector space concepts to the compression of grayscale images. Technical aspects covered include:
 
