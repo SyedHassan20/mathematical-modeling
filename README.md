@@ -43,15 +43,6 @@ This project extends traditional foot traffic modeling by incorporating matrix a
 - **Eigenvalue Analysis**: Use of eigenvalues and eigenvectors to determine the stability and dominant patterns in foot traffic distribution.
 - **Matrix Decomposition**: Utilization of matrix factorization methods to decompose and interpret the traffic data.
 
-## 6. Song Recommender System with SVD
-
-This repository implements a collaborative filtering-based song recommender system using Singular Value Decomposition (SVD). The technical highlights include:
-
-- **Collaborative Filtering**: Matrix factorization approach for predicting user preferences based on historical data.
-- **SVD Implementation**: Detailed implementation of SVD to reduce the dimensionality of the user-item interaction matrix, capturing latent factors.
-- **Prediction and Evaluation**: Calculation of predicted ratings through reconstructed matrices and evaluation using metrics like RMSE (Root Mean Square Error).
-- **Regularization Techniques**: Application of regularization to prevent overfitting in the SVD model, ensuring better generalization to unseen data.
-
 ## 7. Vector Spaces and Grayscale Image Compression
 
 This project explores the application of linear algebra and vector space concepts to the compression of grayscale images. Technical aspects covered include:
